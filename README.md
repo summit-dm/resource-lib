@@ -36,11 +36,11 @@ Library for gettin your learning on!
 - [Shutterstock](https://www.shutterstock.com/photos) - Free collection/Paid
 
 ## Favorite Apps
-**Project Organization**
+- **Project Organization**
 - [ClickUp](https://clickup.com/) - Organize anything anyway, free/paid.
 - [Notion](https://www.notion.so/) - Organize like a Wiki with superpowers, free/paid.
 - [Google Drive](https://drive.google.com/) - Office documents, paid.
-**Design**
+- **Design**
 - [InVision](https://www.invisionapp.com/) - Create prototypes, share them, collaborate notes, design systems & more, free/paid services.
 - [InVision Studio](https://www.invisionapp.com/studio) - Create web & app designs, prototypes & animations, upload to InVision.
 - [Sketch](https://www.sketch.com/) - Design anything and link with InVision to create prototypes and design systems, trial/$100.
@@ -49,14 +49,14 @@ Library for gettin your learning on!
 - [Luminar 4 + AI](https://skylum.com/luminar) - AI powered photo editor for batch photo editing. $188
 - [ImageOptim](https://imageoptim.com/) - Clean & compress images using the app or API.
 - [FontBase](https://fontba.se/) - Font manager for your computer. Free/Paid
-**3D Modeling**
+- **3D Modeling**
 - [Blender](https://www.blender.org/) - Free 3D modeling and animation tool.
 - [Unity](https://unity.com/) - Free game engine & pipeline, animation, film, architecture, visualizations & more.
-**Coding**
+- **Coding**
 - [Visual Studio Code Editor](https://code.visualstudio.com/) - Code editor optimized for building moder web & cloud apps.
 - [GitKraken](https://www.gitkraken.com/) - Free Git GUI.
 - [Transmit 5](https://panic.com/transmit/) - FTP, SFTP, WebDAV & S3
-**SEO Research**
+- **SEO Research**
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Website crawler from an SEO perspective.
 - [SpyFu](https://www.spyfu.com/) - Search keywords, PPC, SEO tricks & more for any competitor. $33/month
 - [Serpstat](https://serpstat.com/) - Growth hacking tool for SEO, PPC & content. $55/month
